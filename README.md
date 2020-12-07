@@ -2,7 +2,7 @@
 Learning to track my code
 # mycode (Python class)
 
-This repo is for classroom learning.
+This repo is for classroom learning. Wanting to learn hwo to version control projects with git.
 
 ## Getting Started
 
