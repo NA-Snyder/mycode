@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
+# ask user age
 age = int(input("How old are you?"))
 
+# ouput based on user age
 if age < 10:
     print("You are younger than 10.")
 
