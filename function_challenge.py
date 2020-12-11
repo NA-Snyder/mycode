@@ -6,8 +6,8 @@ def hello(name):
 hello(input("What is your name?"))
 
 def multiply(number):
-    newnumber = number * 11 # not actually multiplying number by 11, just printing number 11 times.
+    newnumber = 11 * number 
     print(newnumber)
     return
-multiply(input("Type a number."))
+multiply(int(input("Type a number.")))
 
